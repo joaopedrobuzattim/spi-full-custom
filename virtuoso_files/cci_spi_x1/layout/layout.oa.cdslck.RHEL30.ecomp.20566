@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jmendes
+HostName                       ecomp
+ProcessIdentifier              20566
+ProcessCreationTime_UTC        1749519452
+ProcessCreationTime_Readable   Mon Jun  9 22:37:32 2025 -03
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cia2024/jmendes/projeto/joaoPedroBuzatti/cci_spi_x1/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Jun  9 23:32:46 2025 -03
